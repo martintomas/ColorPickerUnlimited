@@ -1,2 +1,1 @@
-"# ColorPicker" 
 # ColorPickerUnlimited
